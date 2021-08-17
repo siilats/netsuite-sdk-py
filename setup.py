@@ -5,8 +5,8 @@ with open('README.md', 'r') as f:
 
 setuptools.setup(
     name='netsuitesdk',
-    version='2.3.0',
-    author='Siva Narayanan',
+    version='2.3.1',
+    author='Siva Narayanan Keith Siilats',
     author_email='siva@fyle.in',
     description='Python SDK for accessing the NetSuite SOAP webservice',
     license='MIT',
