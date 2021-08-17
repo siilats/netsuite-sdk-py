@@ -60,6 +60,7 @@ COMPLEX_TYPES = {
         'CustomRecordSearchBasic',
         'CustomListSearchBasic',
         'TermSearchBasic',
+        'NoteSearchBasic',
     ],
 
     # urn:relationships.lists.webservices.netsuite.com

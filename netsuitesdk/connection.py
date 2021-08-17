@@ -13,7 +13,7 @@ from .api.folders import Folders
 from .api.files import Files
 from .api.customers import Customers
 from .api.projects import Projects
-from .api.projects import Projects
+from .api.notes import Notes
 from .api.expense_categories import ExpenseCategory
 from .api.custom_lists import CustomLists
 from .api.custom_record_types import CustomRecordTypes
