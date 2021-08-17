@@ -140,7 +140,7 @@ COMPLEX_TYPES = {
     ],
 
     # https://webservices.netsuite.com/xsd/general/v2017_2_0/communication.xsd
-    'ns39': [
+    'ns9': [
         'Note',
         'NoteSearch',
         'Message',
