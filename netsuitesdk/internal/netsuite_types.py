@@ -138,6 +138,15 @@ COMPLEX_TYPES = {
         'ExpenseReportExpense',
         'ExpenseReportExpenseList',
     ],
+
+    # https://webservices.netsuite.com/xsd/general/v2017_2_0/communication.xsd
+    'ns39': [
+        'Note',
+        'NoteSearch',
+        'Message',
+        'MessageSearch'
+    ],
+
     'ns11': [
         'FolderSearch',
         'Folder',
