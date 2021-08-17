@@ -62,3 +62,4 @@ class NetSuiteConnection:
         self.invoices = Invoices(ns_client)
         self.terms = Terms(ns_client)
         self.tax_items = TaxItems(ns_client)
+        self.notes = Notes(ns_client)
